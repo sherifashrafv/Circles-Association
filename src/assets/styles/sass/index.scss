@@ -1,0 +1,9 @@
+// variabels
+@use "variables/variables.scss" as v;
+// taliwind css
+@import url("./tailwind/index.scss");
+// fonts
+@import url("../fonts/fonts.scss");
+// common styles
+@import url("common/index.scss");
+@import url("home/home.scss");

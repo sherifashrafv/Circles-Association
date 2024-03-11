@@ -1,0 +1,8 @@
+@keyframes scrolling {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-1 * var(--marquee-element-width) * var(--marquee-elements)));
+  }
+}/*# sourceMappingURL=index.css.map */
