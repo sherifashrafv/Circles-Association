@@ -1,4 +1,4 @@
-<section>
+<section class="py-[12rem]">
 <div class="container">
     <h1 class="text-center uppercase text-[16px] gradient-text font-bold">  
         SUBSCRIBTIONS

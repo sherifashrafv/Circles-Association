@@ -13,7 +13,6 @@ $(document).ready(function () {
   for (let i = 0; i < marqueeElementsDisplayed; i++) {
     marqueeContent.append(marqueeContent.children().eq(i).clone(true));
   }
-
   // owl carousel sliders
   // constrollers
   //  next
@@ -63,5 +62,38 @@ $(document).ready(function () {
         items: 3,
       },
     },
+  });
+  // faqs
+  const accordionItems = document.querySelectorAll(".accordion-item");
+  accordionItems.forEach((item) => {
+    const header = item.querySelector(".accordion-header");
+    const content = item.querySelector(".accordion-content");
+    const num = item.querySelector(".accordion-num"); // Select the accordion-num element
+
+    header.addEventListener("click", () => {
+      accordionItems.forEach((otherItem) => {
+        if (otherItem !== item && otherItem.classList.contains("active")) {
+          otherItem.classList.remove("active");
+          otherItem.querySelector(".accordion-content").style.height = 0;
+          otherItem
+            .querySelector(".accordion-header")
+            .classList.remove("active");
+          otherItem.querySelector(".accordion-num").classList.remove("active"); // Remove active class from other accordion-num elements
+        }
+      });
+
+      const isActive = item.classList.contains("active");
+      if (!isActive) {
+        item.classList.add("active");
+        header.classList.add("active");
+        content.style.height = `${content.scrollHeight}px`;
+        num.classList.add("active"); // Add active class to accordion-num element
+      } else {
+        item.classList.remove("active");
+        header.classList.remove("active");
+        content.style.height = 0;
+        num.classList.remove("active"); // Remove active class from accordion-num element
+      }
+    });
   });
 });

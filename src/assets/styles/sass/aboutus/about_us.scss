@@ -1,0 +1,47 @@
+.vedio-modal_4 {
+  border-radius: 31px;
+  height: 643px;
+  overflow: hidden;
+}
+#vd-modal_2 {
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: center;
+  object-position: center -300px;
+  background-position: center;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.gap-8rem {
+  gap: 8rem;
+}
+.center-box {
+  margin-top: -38rem !important;
+}
+.accordion-num.active {
+  color: var(--secondary-color);
+}
+.arrow {
+  transition: 0.1s all linear;
+}
+.accordion-item {
+  padding-bottom: 3rem;
+  border-bottom: 1px solid #c8ced9;
+  transition: 0.2s all ease-in-out;
+  &.active {
+    .arrow {
+      transform: rotate(-180deg);
+    }
+    padding-top: 3rem;
+    background: linear-gradient(
+      180deg,
+      rgba(233, 255, 241, 0.73) 0%,
+      rgba(255, 249, 249, 0.2) 100%
+    );
+    border-top: 4px solid #0abe50 !important;
+    border-bottom: unset !important;
+  }
+}
