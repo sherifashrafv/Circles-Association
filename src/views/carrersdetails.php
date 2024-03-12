@@ -1,0 +1,13 @@
+<?php
+@include('../components/head.php');
+?>  
+<?php
+@include('../components/body.php');
+@include("../components/shared/navbar.php");
+@include("../components/carrersdetails/jobdescription.php");
+@include("../components/carrersdetails/applayforjob.php");
+@include("../components/carrersdetails/otherjobs.php");
+@include("../components/aboutus/faqs.php");
+@include("../components/shared/footer.php");
+@include("../components/closeblody.php");
+?>
