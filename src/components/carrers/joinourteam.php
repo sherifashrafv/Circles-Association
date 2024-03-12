@@ -8,7 +8,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Front-end Developer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -18,7 +18,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Product Designer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -28,7 +28,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Back-end Developer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -38,7 +38,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Project Manager</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -48,7 +48,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">UI/UX Designer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -58,7 +58,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">SCRUM Master</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -68,7 +68,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Front-end Developer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -78,7 +78,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Product Designer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -88,7 +88,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Back-end Developer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -98,7 +98,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">Project Manager</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -108,7 +108,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">UI/UX Designer</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>
@@ -118,7 +118,7 @@
             <div class="applay-box p-10 py-14 rounded-[20px] bg-[#f7f8f9]">
                 <div class="flex items-center justify-between">
                     <h1 class="text-[#333f51] text-[22px] font-bold">SCRUM Master</h1>
-                    <a class="flex gap-3" href="">
+                    <a class="flex gap-3" href="../../src/views/carrersdetails.php">
                         <h4 class="gradient-text font-bold">View Job</h4>
                         <img src="../assets/svg/Outline.svg" alt="">
                     </a>

@@ -97,6 +97,20 @@ $(document).ready(function () {
     });
   });
 
+  // payments
+  const cardType = document.querySelector("#card-type");
+  const cardNumberInput = document.querySelector("#card-number-input");
+
+  cardType.addEventListener("change", () => {
+    if (cardType.value === "credit") {
+      cardNumberInput.value = "0000 0000 0000 0000";
+    } else if (cardType.value === "debit") {
+      cardNumberInput.value = "0000 0000 0000 0000";
+    } else if (cardType.value === "fawry") {
+      cardNumberInput.value = "0000 0000 0000 0000";
+    }
+  });
+
   // drop zone upload
   //selecting all required elements
   const dropArea = document.querySelector(".drag-area"),

@@ -146,7 +146,7 @@
 </div>
     </div>
 
-<div class="copyright flex items-center justify-between mt-[17rem]">
+<div class="copyright flex items-center justify-between mt-[9rem]">
 <h1 class="text-[#99a1a5] text-[16px]">
 ©codebasetech. All Right Reserved 2024
 </h1>

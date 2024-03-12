@@ -4,7 +4,7 @@
 <?php
 @include('../components/body.php');
 @include("../components/shared/navbar.php");
-@include("../components/carrers/firstsection.php");
+@include("../components/aboutus/firstsection.php");
 @include("../components/aboutus/ourpriority.php");
 @include("../components/aboutus/circlesassociation.php");
 @include("../components/home/subscribtions.php");

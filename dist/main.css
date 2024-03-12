@@ -774,6 +774,10 @@ video {
   margin-top: 20rem;
 }
 
+.mt-\[9rem\] {
+  margin-top: 9rem;
+}
+
 .block {
   display: block;
 }
@@ -836,6 +840,10 @@ video {
 
 .h-\[80px\] {
   height: 80px;
+}
+
+.h-\[93px\] {
+  height: 93px;
 }
 
 .h-full {
@@ -965,6 +973,10 @@ video {
   align-items: flex-start;
 }
 
+.items-end {
+  align-items: flex-end;
+}
+
 .items-center {
   align-items: center;
 }
@@ -999,6 +1011,10 @@ video {
 
 .gap-20 {
   gap: 5rem;
+}
+
+.gap-24 {
+  gap: 6rem;
 }
 
 .gap-3 {
@@ -1159,6 +1175,10 @@ video {
   padding: 3.5rem;
 }
 
+.p-4 {
+  padding: 1rem;
+}
+
 .p-5 {
   padding: 1.25rem;
 }
@@ -1194,6 +1214,11 @@ video {
 .px-32 {
   padding-left: 8rem;
   padding-right: 8rem;
+}
+
+.px-36 {
+  padding-left: 9rem;
+  padding-right: 9rem;
 }
 
 .px-4 {
@@ -1409,6 +1434,10 @@ video {
   font-size: 64px;
 }
 
+.text-\[25px\] {
+  font-size: 25px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -1436,6 +1465,11 @@ video {
 .\!text-\[\#22c55e\] {
   --tw-text-opacity: 1 !important;
   color: rgb(34 197 94 / var(--tw-text-opacity)) !important;
+}
+
+.text-\[\#00141E\] {
+  --tw-text-opacity: 1;
+  color: rgb(0 20 30 / var(--tw-text-opacity));
 }
 
 .text-\[\#04c4ab\] {
@@ -1720,6 +1754,10 @@ h5 {
 
 h6 {
   font-size: 1.4rem;
+}
+
+p {
+  line-height: 1.5;
 }
 
 .btn-primary {
@@ -2215,6 +2253,19 @@ h6 {
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 5px;
+}
+
+#card-number {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#card-number-input {
+  width: 100%;
+  border: none;
+  background: none;
+  font-size: 20px;
 }
 
 .hover\:bg-white:hover {

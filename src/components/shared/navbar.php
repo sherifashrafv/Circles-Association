@@ -19,16 +19,16 @@
         </li>
 
         <li>
-            <a class="text-[16px] font-semibold" href="">About us</a>
+            <a class="text-[16px] font-semibold" href="../../src/views/aboutus.php">About us</a>
         </li>
         <li>
             <a class="text-[16px] font-semibold" href="">Join us</a>
         </li>
         <li>
-            <a class="text-[16px] font-semibold" href="">Carrers</a>
+            <a class="text-[16px] font-semibold" href="../../src/views/carrers.php">Carrers</a>
         </li>
         <li>
-            <a class="text-[16px] font-semibold" href="">Contact us</a>
+            <a class="text-[16px] font-semibold" href="../../src/views/contactus.php">Contact us</a>
         </li>
     </ul>
 

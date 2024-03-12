@@ -1,0 +1,10 @@
+<?php
+@include('../components/head.php');
+?>  
+<?php
+@include('../components/body.php');
+@include("../components/shared/navbar.php");
+@include("../components/payment/payment.php");
+@include("../components/shared/footer.php");
+@include("../components/closeblody.php");
+?>

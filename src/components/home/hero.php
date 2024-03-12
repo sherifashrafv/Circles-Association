@@ -1,4 +1,4 @@
-<section class="mt-24">
+<section class="mt-52">
 <div class="container">
 <div class="flex flex-row">
 <div class="w-fit flex-col flex items-start">

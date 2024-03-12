@@ -5,7 +5,7 @@
             <h1 class="font-bold text-[64px]">
             Carrers
             </h1>
-            <p class="text-[#667278] text-[18px]">
+            <p class="text-[#667278] text-[22px]">
             We have been the most trusted “Health care Nutrition” manual for 25 years, and We are proud of our rich history of providing evidence based nutrition resources from Registered Dietitian Nutritionists.             </p>
             <button class="btn btn-primary mt-32 my-5 w-fit  text-[15px]  px-32 py-7 font-bold text-white" fdprocessedid="p1s2r">
             Join
